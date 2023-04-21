@@ -1,3 +1,5 @@
+# https://school.programmers.co.kr/learn/courses/30/lessons/169199
+
 from collections import deque
 
 move_row = [0, -1, 0, 1]
